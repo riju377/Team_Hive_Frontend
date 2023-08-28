@@ -1,0 +1,36 @@
+.userdb{
+    height: 10vh !important;
+}
+.allcomp{
+    /* can increase scroll length */
+    height: 75vh ;
+    overflow-y: scroll !important;
+}
+.userdb h1{
+    color: red;
+}
+
+.heading
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    color: #133272 !important;
+    font-size: 1.5em !important;
+    font-weight: 800 !important;
+}
+.cont
+{
+    background: #f8f9fa !important;
+}
+.name
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    color: #eaedf4 !important;
+    font-size: 1.5em !important;
+    font-weight: 800 !important;
+}
+/* .apldcomp
+{
+    background: #f8f9fa !important;
+} */
